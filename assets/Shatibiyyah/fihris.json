@@ -1,0 +1,314 @@
+[
+    {
+        "line_number": 1,
+        "content": "-(مقدمة)"
+    },
+    {
+        "line_number": 2,
+        "content": "-باب الاستعاذة"
+    },
+    {
+        "line_number": 3,
+        "content": "-باب البسملة"
+    },
+    {
+        "line_number": 4,
+        "content": "-سورة أم القرآن"
+    },
+    {
+        "line_number": 5,
+        "content": "-باب الإدغام الكبير"
+    },
+    {
+        "line_number": 6,
+        "content": "-باب إدغام الحرفين المتقاربين في كلمة وفي كلمتين"
+    },
+    {
+        "line_number": 7,
+        "content": "-باب هاء الكناية"
+    },
+    {
+        "line_number": 8,
+        "content": "-باب المد والقصر"
+    },
+    {
+        "line_number": 9,
+        "content": "-باب الهمزتين من كلمة"
+    },
+    {
+        "line_number": 10,
+        "content": "-باب الهمزتين من كلمتين"
+    },
+    {
+        "line_number": 11,
+        "content": "-باب الهمز المفرد"
+    },
+    {
+        "line_number": 12,
+        "content": "-باب نقل حركة الهمزة إلى الساكن قبلها"
+    },
+    {
+        "line_number": 13,
+        "content": "-باب وقف حمزة وهشام على الهمز"
+    },
+    {
+        "line_number": 14,
+        "content": "-باب الإظهار والإدغام"
+    },
+    {
+        "line_number": 15,
+        "content": "-ذكر ذال إذ"
+    },
+    {
+        "line_number": 16,
+        "content": "-ذكر دال قد"
+    },
+    {
+        "line_number": 17,
+        "content": "-ذكر تاء التأنيث"
+    },
+    {
+        "line_number": 18,
+        "content": "-ذكر لام هل وبل"
+    },
+    {
+        "line_number": 19,
+        "content": "-باب اتفاقهم في إدغام إذ وقد وتاء التأنيث وهل وبل"
+    },
+    {
+        "line_number": 20,
+        "content": "-باب حروف قربت مخارجها"
+    },
+    {
+        "line_number": 21,
+        "content": "-باب أحكام النون الساكنة والتنوين"
+    },
+    {
+        "line_number": 22,
+        "content": "-باب الفتح والإمالة وبين اللفظين"
+    },
+    {
+        "line_number": 23,
+        "content": "-باب مذهب الكسائي في إمالة هاء التأنيث في الوقف"
+    },
+    {
+        "line_number": 24,
+        "content": "-باب مذاهبهم في الراءات"
+    },
+    {
+        "line_number": 25,
+        "content": "-باب اللامات"
+    },
+    {
+        "line_number": 26,
+        "content": "-باب الوقف على أواخر الكلم"
+    },
+    {
+        "line_number": 27,
+        "content": "-باب الوقف على مرسوم الخط"
+    },
+    {
+        "line_number": 28,
+        "content": "-باب مذاهبهم في ياءات الإضافة"
+    },
+    {
+        "line_number": 29,
+        "content": "-باب ياءات الزوائد"
+    },
+    {
+        "line_number": 30,
+        "content": "باب فرش الحروف"
+    },
+    {
+        "line_number": 31,
+        "content": "-سورة البقرة"
+    },
+    {
+        "line_number": 32,
+        "content": "-سورة آل عمران"
+    },
+    {
+        "line_number": 33,
+        "content": "-سورة النساء"
+    },
+    {
+        "line_number": 34,
+        "content": "-سورة المائدة"
+    },
+    {
+        "line_number": 35,
+        "content": "-سورة الأنعام"
+    },
+    {
+        "line_number": 36,
+        "content": "-سورة الأعراف"
+    },
+    {
+        "line_number": 37,
+        "content": "-سورة الأنفال"
+    },
+    {
+        "line_number": 38,
+        "content": "-سورة التوبة"
+    },
+    {
+        "line_number": 39,
+        "content": "-سورة يونس عليه السلام"
+    },
+    {
+        "line_number": 40,
+        "content": "-سورة هود عليه السلام"
+    },
+    {
+        "line_number": 41,
+        "content": "-سورة يوسف عليه السلام"
+    },
+    {
+        "line_number": 42,
+        "content": "-سورة الرعد"
+    },
+    {
+        "line_number": 43,
+        "content": "-سورة إبراهيم عليه الصلاة والسلام"
+    },
+    {
+        "line_number": 44,
+        "content": "-سورة النحل"
+    },
+    {
+        "line_number": 45,
+        "content": "-سورة الإسراء"
+    },
+    {
+        "line_number": 46,
+        "content": "-سورة الكهف"
+    },
+    {
+        "line_number": 47,
+        "content": "-سورة مريم عليها السلام"
+    },
+    {
+        "line_number": 48,
+        "content": "-سورة طه"
+    },
+    {
+        "line_number": 49,
+        "content": "-سورة الأنبياء عليهم السلام"
+    },
+    {
+        "line_number": 50,
+        "content": "-سورة الحج"
+    },
+    {
+        "line_number": 51,
+        "content": "-سورة المؤمنون"
+    },
+    {
+        "line_number": 52,
+        "content": "-سورة النور"
+    },
+    {
+        "line_number": 53,
+        "content": "-سورة الفرقان"
+    },
+    {
+        "line_number": 54,
+        "content": "-سورة الشعراء"
+    },
+    {
+        "line_number": 55,
+        "content": "-سورة النمل"
+    },
+    {
+        "line_number": 56,
+        "content": "-سورة القصص"
+    },
+    {
+        "line_number": 57,
+        "content": "-سورة العنكبوت"
+    },
+    {
+        "line_number": 58,
+        "content": "-من سورة الروم إلى سورة سبأ"
+    },
+    {
+        "line_number": 59,
+        "content": "-سورة سبأ وفاطر"
+    },
+    {
+        "line_number": 60,
+        "content": "-سورة يس"
+    },
+    {
+        "line_number": 61,
+        "content": "-سورة الصافات"
+    },
+    {
+        "line_number": 62,
+        "content": "-سورة ص"
+    },
+    {
+        "line_number": 63,
+        "content": "-سورة الزمر"
+    },
+    {
+        "line_number": 64,
+        "content": "-سورة المؤمن"
+    },
+    {
+        "line_number": 65,
+        "content": "-سورة فصلت"
+    },
+    {
+        "line_number": 66,
+        "content": "-سورة الشورى والزخرف والدخان"
+    },
+    {
+        "line_number": 67,
+        "content": "-سورة الشريعة والأحقاف"
+    },
+    {
+        "line_number": 68,
+        "content": "-ومن سورة محمد صلى الله عليه وسلم إلى سورة الرحمن عز وجل"
+    },
+    {
+        "line_number": 69,
+        "content": "-سورة الرحمن عز وجل"
+    },
+    {
+        "line_number": 70,
+        "content": "-سورة الواقعة والحديد"
+    },
+    {
+        "line_number": 71,
+        "content": "-ومن سورة المجادلة إلى سورة (ن)"
+    },
+    {
+        "line_number": 72,
+        "content": "-ومن سورة (ن) إلى سورة القيامة"
+    },
+    {
+        "line_number": 73,
+        "content": "-ومن سورة القيامة إلى سورة النبأ"
+    },
+    {
+        "line_number": 74,
+        "content": "-ومن سورة النبأ إلى سورة العلق"
+    },
+    {
+        "line_number": 75,
+        "content": "-من سورة العلق إلى آخر القرآن"
+    },
+    {
+        "line_number": 76,
+        "content": "-باب التكبير"
+    },
+    {
+        "line_number": 77,
+        "content": "-باب مخارج الحروف وصفاتها التي يحتاج القارئ إليها"
+    },
+    {
+        "line_number": 78,
+        "content": "-(الخاتمة)"
+    }
+]
